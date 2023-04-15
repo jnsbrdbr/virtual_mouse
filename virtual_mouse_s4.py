@@ -37,3 +37,5 @@ while True:
                     
     cv2.imshow('virtual mause',frame)
     cv2.waitKey(1)
+    
+    #This code will be expalined
